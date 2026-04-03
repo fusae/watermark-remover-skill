@@ -1,6 +1,6 @@
 # Watermark Remover Skill
 
-Standalone Codex skill for removing corner watermarks from local images with the `watermark-remover` CLI.
+Standalone skill for removing corner watermarks from local images with the `watermark-remover` CLI.
 
 This repository only contains the skill itself. The underlying tool is installed on demand from the main project repository:
 
