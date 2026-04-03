@@ -1,0 +1,4 @@
+interface:
+  display_name: "Watermark Remover"
+  short_description: "Standalone CLI skill for removing image watermarks."
+  default_prompt: "Use $watermark-remover to remove watermarks from local images with the standalone CLI wrapper."
